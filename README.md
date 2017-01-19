@@ -1,2 +1,2 @@
 # MIB
-this is a readme file
+Collection of MIB files
